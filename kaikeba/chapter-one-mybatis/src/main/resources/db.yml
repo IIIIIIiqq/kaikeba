@@ -1,0 +1,4 @@
+driver: com.mysql.jdbc.Driver
+url: jdbc:mysql:///kaikeba
+username: root
+password: root
